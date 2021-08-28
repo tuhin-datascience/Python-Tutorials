@@ -4,3 +4,7 @@ This repository is dedicated for Python Tutorials
 *   Pandas
 *   Matplotlib
 *   Seaborn
+
+
+## **Seaborn**
+### **1. Installing/Importing Seaborn library**
