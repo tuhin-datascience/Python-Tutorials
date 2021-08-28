@@ -11,5 +11,5 @@ This repository is dedicated for Python Tutorials
 ### **2. Exploring Seaborn Graphs**
 ### **2.1. Line Chart**
 ### **2.2. Histogram, KDE and Densities**
-#### **2.2.1. Histogram**
-#### **2.2.2. Distribution Plot**
+####      **2.2.1. Histogram**
+####      **2.2.2. Distribution Plot**
