@@ -8,6 +8,22 @@ This repository is dedicated for Python Tutorials
 
 ## **Matplotlib**
 ### **1. Introduction of Matplotlib**
+*   **1.1. Anatomy of Matplotlib**
+
+### **2. Installing / Importing Matplotlib**
+### **3. Line Graph**
+*   **3.1. Title, Label & Legend**
+*   **3.2. Setting Style**
+###   **4. Scatter Plot**
+###   **5. Bar Plot**
+###   **6. Histogram**
+###   **7. Line Chart**
+###   **8. Subplot**
+*   **8.1. Figure and Axes**
+###   **9. Tick**
+###   **10. Annotation**
+###   **11. 3D plots in Matplotlib**
+
 
 
 
