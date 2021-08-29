@@ -6,6 +6,13 @@ This repository is dedicated for Python Tutorials
 *   Seaborn
 
 
+## **Matplotlib**
+### **1. Introduction of Matplotlib**
+
+
+
+
+
 ##  **Seaborn**
 ### **1. Installing/Importing Seaborn library**
 ### **2. Exploring Seaborn Graphs**
